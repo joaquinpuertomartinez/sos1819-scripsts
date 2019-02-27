@@ -1,0 +1,14 @@
+{
+  "name": "l04",
+  "version": "0.1.0",
+  "description": "Modulo para sos",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "joaquinpuerto@hotmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
